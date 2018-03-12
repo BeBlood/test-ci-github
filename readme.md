@@ -1,0 +1,1 @@
+[![buddy pipeline](https://app.buddy.works/beblood/test-ci-github/pipelines/pipeline/128834/badge.svg?token=db0e6f2fca97c71c46c83e2523b08fc1c449d713df9c62bb98f79f1701b231ac "buddy pipeline")](https://app.buddy.works/beblood/test-ci-github/pipelines/pipeline/128834)
