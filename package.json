@@ -1,0 +1,11 @@
+{
+  "name": "test-ci-github",
+  "version": "1.0.0",
+  "description": "Test du CI sur github avec un projet NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
